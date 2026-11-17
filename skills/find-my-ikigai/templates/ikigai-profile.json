@@ -1,0 +1,139 @@
+{
+  "_example": "Example only. Replace with the user's own words.",
+  "schema": "find-my-ikigai/profile/v1",
+  "created": "2026-11-09",
+  "updated": "2026-11-09",
+  "language": "en",
+  "title": "Example profile",
+  "standpoint": "Works in finance, good at it, feels flat on Sunday evenings.",
+  "values": [
+    {
+      "value": "craftsmanship",
+      "origin": "own, grandfather's workshop"
+    }
+  ],
+  "ikigai_kan": {
+    "moments": [
+      {
+        "what": "Saturday morning in the workshop with my daughter",
+        "feelings": "calm, pride, connection",
+        "body": "warm chest"
+      },
+      {
+        "what": "Finishing a run by the river",
+        "feelings": "aliveness",
+        "body": "light legs"
+      }
+    ],
+    "hard_period": "When I was ill, building small boxes kept me going",
+    "looking_forward": "The woodworking course in spring"
+  },
+  "sources": [
+    {
+      "name": "My daughter",
+      "kind": "people",
+      "feeling": "love, pride"
+    },
+    {
+      "name": "Woodworking",
+      "kind": "activity",
+      "feeling": "calm, absorption"
+    },
+    {
+      "name": "Running",
+      "kind": "ritual",
+      "feeling": "aliveness"
+    },
+    {
+      "name": "My job in finance",
+      "kind": "activity",
+      "feeling": "security, sometimes flat",
+      "fragile": "yes"
+    }
+  ],
+  "needs": [
+    {
+      "name": "Life satisfaction",
+      "score": 5,
+      "importance": "high",
+      "fed_by": [
+        "My daughter"
+      ]
+    },
+    {
+      "name": "Change and growth",
+      "score": 3,
+      "importance": "high",
+      "fed_by": [
+        "Woodworking"
+      ]
+    },
+    {
+      "name": "A bright future",
+      "score": 4,
+      "importance": "not in top three",
+      "fed_by": []
+    },
+    {
+      "name": "Resonance",
+      "score": 7,
+      "importance": "not in top three",
+      "fed_by": [
+        "My daughter"
+      ]
+    },
+    {
+      "name": "Freedom",
+      "score": 3,
+      "importance": "high",
+      "fed_by": []
+    },
+    {
+      "name": "Self-actualization",
+      "score": 2,
+      "importance": "not in top three",
+      "fed_by": [
+        "Woodworking"
+      ]
+    },
+    {
+      "name": "Meaning and value",
+      "score": 4,
+      "importance": "not in top three",
+      "fed_by": []
+    }
+  ],
+  "first_needs": [],
+  "owned_signature": "close, warm colours, own voice, light in the chest",
+  "candidates": [
+    {
+      "name": "Partner at the firm",
+      "origin": "father's voice",
+      "qualities": "far, grey, framed, tight shoulders",
+      "verdict": "borrowed",
+      "verdict_by": "user"
+    },
+    {
+      "name": "Teaching woodworking",
+      "origin": "own, since age 12",
+      "qualities": "close, colour, own hands, warm",
+      "verdict": "owned",
+      "verdict_by": "user"
+    },
+    {
+      "name": "Financial coaching for starters",
+      "origin": "mixed",
+      "qualities": "medium distance, colour, some pressure",
+      "verdict": "mixed",
+      "owned_core": "helping people feel calm about money",
+      "verdict_by": "user"
+    }
+  ],
+  "step": "On Saturday I will spend two hours in the community workshop, and afterwards I will notice my energy.",
+  "first_step": "On Saturday I will spend two hours in the community workshop, and afterwards I will notice my energy.",
+  "direction": null,
+  "keep_sentence": "When my hands work, my head is quiet.",
+  "next_reflection": "2026-12-13",
+  "assumptions": [],
+  "follow_ups": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "find-my-ikigai",
+  "owner": {
+    "name": "Jockkie Studio",
+    "email": "info@jockkie.com",
+    "url": "https://www.jockkie.com"
+  },
+  "metadata": {
+    "description": "Reflective coach based on Mieko Kamiya: the feeling that life is worth living, its sources and the seven needs, explained as you go; optional NLP owned-or-borrowed test; an ikigai map and one small step."
+  },
+  "plugins": [
+    {
+      "name": "find-my-ikigai",
+      "source": "./",
+      "description": "Reflective coach based on Mieko Kamiya: the feeling that life is worth living, its sources and the seven needs, explained as you go; optional NLP owned-or-borrowed test; an ikigai map and one small step.",
+      "version": "0.1.0"
+    }
+  ]
+}
