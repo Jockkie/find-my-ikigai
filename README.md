@@ -2,7 +2,7 @@
 
 # Find My Ikigai
 
-*Part of [Jockkie Studio's open-source skills](https://github.com/Jockkie/jockkie-studio). I do the geeking. You get the easy part.*
+*Part of [Jockkie Studio's](https://www.jockkie.com) open-source skills. I do the geeking. You get the easy part.*
 
 > **Version 0.1.0, beta.** Tested in Claude; built to the specification of the other platforms but not yet tested there. See [Platform status](#platform-status), and please [report what you find](https://github.com/Jockkie/find-my-ikigai/issues/new/choose).
 
@@ -25,7 +25,6 @@ The skill folder is `skills/find-my-ikigai`.
 /plugin marketplace add Jockkie/find-my-ikigai
 /plugin install find-my-ikigai@find-my-ikigai
 ```
-Want all five Jockkie Studio skills in one go? Use `/plugin marketplace add Jockkie/jockkie-studio` and then `/plugin install find-my-ikigai@jockkie-studio`.
 
 **Claude.ai**
 Zip the `skills/find-my-ikigai` folder and upload it in Claude's skills settings.
