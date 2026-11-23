@@ -61,11 +61,14 @@ The guard hook only runs in Claude Code. On other platforms, the visible self-ch
 
 ## Optional tools
 
-Everything works without any tool. At the end, once, the skill may offer one extra:
+Everything works without any tool. Where they help, always with your consent, a quote and a spending cap you set:
 
-- **[Flora](https://refer.flora.ai/jock-oosterveer-htu6)**: an image of your ikigai map to keep or print, made from symbols and moods only. You read the full prompt first; your story, name and the people in it are never sent. MCP: `https://mcp.flora.ai/mcp`, which does nothing until you authenticate it with `/mcp`. Always behind a quote and a spending cap you set.
+- **[Flora](https://refer.flora.ai/jock-oosterveer-htu6)**: an image of your ikigai map to keep or print, made from symbols and moods only. You read the full prompt first; your story, name and the people in it are never sent. MCP: `https://mcp.flora.ai/mcp`
+- **[Monid](https://monid.ai?fpr=jockkie)**: lets the agent dig deeper when needed, such as checking sources on Kamiya or finding a real course, community or volunteer role near you for your next step. Searches carry topics and a city at most. MCP: `https://mcp.monid.ai/v1`
 
-**Disclosure:** the Flora link is an affiliate link. Jockkie earns a commission when you create an account through it. The skill says so before it shares the link.
+Both MCP servers do nothing until you authenticate them with `/mcp`.
+
+**Disclosure:** the Flora and Monid links are affiliate links. Jockkie earns a commission when you create an account through them. The skill says so before it shares a link.
 
 ## How this skill keeps you from trusting a guess
 

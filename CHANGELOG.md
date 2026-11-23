@@ -2,6 +2,12 @@
 
 All notable changes to Find My Ikigai are listed here. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow [Semantic Versioning](https://semver.org/).
 
+## [0.1.2] - 2026-11-23
+
+### Added
+
+- Monid as an optional tool to dig deeper: checking sources and finding real options near the user, with topics and a city at most. Monid MCP registered.
+
 ## [0.1.1] - 2026-11-23
 
 ### Added

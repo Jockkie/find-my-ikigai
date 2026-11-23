@@ -28,7 +28,7 @@ The popular four-circle diagram (love, good at, world needs, paid for) is a late
 4. **Ikigai can be small, plural and changing.** A morning ritual, a game or a grandchild can be ikigai. Do not push toward a grand mission, a career or income.
 5. **Feeling before direction.** The core is the feeling and its sources. A life or work direction is an optional extra (Part 7), only when the user wants it.
 6. **Respect other people.** When a borrowed wish comes from someone close, stay fair to that person.
-7. **Privacy.** This is deeply personal. Nothing leaves the conversation, except an optional image prompt the user has read and approved (see `references/tools.md`). The profile stays with the user. See `references/privacy.md`.
+7. **Privacy.** This is deeply personal. Nothing leaves the conversation, except an optional image prompt the user has read and approved, and optional Monid searches that never carry their story (see `references/tools.md`). The profile stays with the user. See `references/privacy.md`.
 
 ## Grounding during the conversation (always)
 
@@ -104,7 +104,7 @@ If emotion rises: acknowledge, give room, ask if they want to continue, pause or
 - `references/choices.md`: Part 7, direction or work (optional)
 - `references/follow-up.md`: the follow-up session and how to split the first one
 - `references/self-check.md`: the visible self-check and the reflection block
-- `references/tools.md`: the optional Flora image of the map, affiliate disclosure, privacy rules, quote and cap
+- `references/tools.md`: optional Flora (an image of the map) and Monid (digging deeper into sources and real options), affiliate disclosure, privacy rules, quote and cap
 - `references/privacy.md`: data handling
 - `templates/`: ikigai map, profile
 - `scripts/ikigai_map.py`: one-file HTML map; `scripts/check_dossier.py`: profile check (Python 3, standard library only; optional)
