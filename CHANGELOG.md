@@ -2,6 +2,13 @@
 
 All notable changes to Find My Ikigai are listed here. The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and versions follow [Semantic Versioning](https://semver.org/).
 
+## [0.1.1] - 2026-11-23
+
+### Added
+
+- An optional Flora image of the ikigai map, offered once at the end, built from symbols and moods only, sent only after the user approves the exact prompt. Flora MCP registered.
+- README: an Optional tools section with the links and the affiliate disclosure.
+
 ## [0.1.0] - 2026-11-17
 
 First public release. Beta: tested in Claude, and built to the specification of the other platforms but not yet tested there (see "Platform status" in the README).

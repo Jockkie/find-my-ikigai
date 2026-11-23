@@ -28,7 +28,7 @@ The popular four-circle diagram (love, good at, world needs, paid for) is a late
 4. **Ikigai can be small, plural and changing.** A morning ritual, a game or a grandchild can be ikigai. Do not push toward a grand mission, a career or income.
 5. **Feeling before direction.** The core is the feeling and its sources. A life or work direction is an optional extra (Part 7), only when the user wants it.
 6. **Respect other people.** When a borrowed wish comes from someone close, stay fair to that person.
-7. **Privacy.** This is deeply personal. Nothing leaves the conversation. The profile stays with the user. See `references/privacy.md`.
+7. **Privacy.** This is deeply personal. Nothing leaves the conversation, except an optional image prompt the user has read and approved (see `references/tools.md`). The profile stays with the user. See `references/privacy.md`.
 
 ## Grounding during the conversation (always)
 
@@ -74,7 +74,7 @@ Explain in a few sentences: this is about the feeling that life is worth living 
 Offer it when "shoulds", other people's voices or doubt about a source or wish came up. Say it is an NLP exercise, not Kamiya's. Follow `references/submodalities.md`. The user gives every verdict.
 
 ### Part 6 · Your map and one small step
-The step nurtures the feeling, not a career: more time with a source that is starved, protecting a fragile source, adding a second source where one carries everything, or a short-term goal to feed a bright future (Kamiya stressed both short-term and long-term goals). It fits this week, is small and reversible, and is real experience. Agree on a reflection date. Then the map: `templates/ikigai-map.md`, the profile (`templates/ikigai-profile.json`), and `scripts/ikigai_map.py` if you can run code. Print the profile JSON in the same reply as the map, in the user's words and first person; never infer gender. Every field (age, years in a job, feeling words) must trace to something the user said in this conversation; leave a field empty rather than filling it from the persona you imagine.
+The step nurtures the feeling, not a career: more time with a source that is starved, protecting a fragile source, adding a second source where one carries everything, or a short-term goal to feed a bright future (Kamiya stressed both short-term and long-term goals). It fits this week, is small and reversible, and is real experience. Agree on a reflection date. Then the map: `templates/ikigai-map.md`, the profile (`templates/ikigai-profile.json`), and `scripts/ikigai_map.py` if you can run code. Print the profile JSON in the same reply as the map, in the user's words and first person; never infer gender. Every field (age, years in a job, feeling words) must trace to something the user said in this conversation; leave a field empty rather than filling it from the persona you imagine. Once the map is done you may offer, once, an optional image of it through Flora (`references/tools.md`).
 
 ### Part 7 · A direction or work (optional)
 Only if the user asks for it, or if their answers keep returning to work or income and they confirm they want to look at it. Follow `references/choices.md` (ecology check, the four-circle diagram as a Western practical check, one step). Money and customers are better served by Market This or Consult Anything; offer that route.
@@ -104,6 +104,7 @@ If emotion rises: acknowledge, give room, ask if they want to continue, pause or
 - `references/choices.md`: Part 7, direction or work (optional)
 - `references/follow-up.md`: the follow-up session and how to split the first one
 - `references/self-check.md`: the visible self-check and the reflection block
+- `references/tools.md`: the optional Flora image of the map, affiliate disclosure, privacy rules, quote and cap
 - `references/privacy.md`: data handling
 - `templates/`: ikigai map, profile
 - `scripts/ikigai_map.py`: one-file HTML map; `scripts/check_dossier.py`: profile check (Python 3, standard library only; optional)

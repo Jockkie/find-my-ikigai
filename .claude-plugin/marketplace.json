@@ -13,7 +13,7 @@
       "name": "find-my-ikigai",
       "source": "./",
       "description": "Reflective coach based on Mieko Kamiya: the feeling that life is worth living, its sources and the seven needs, explained as you go; optional NLP owned-or-borrowed test; an ikigai map and one small step.",
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }

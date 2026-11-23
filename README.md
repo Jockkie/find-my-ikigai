@@ -14,7 +14,7 @@ You end with an ikigai map, one small step to nurture the feeling, and a date to
 
 Start by saying something like "help me find my ikigai" or "what makes my life worth living?".
 
-No external tools: nothing you share leaves the conversation. This is reflective coaching, not therapy; the skill stops and points to professional help when that is needed. Kamiya's book has not been translated into English; the skill relies on secondary sources it names.
+No external tools by default: nothing you share leaves the conversation. This is reflective coaching, not therapy; the skill stops and points to professional help when that is needed. Kamiya's book has not been translated into English; the skill relies on secondary sources it names.
 
 ## Install
 
@@ -58,6 +58,14 @@ Copy `skills/find-my-ikigai` into the client's skills directory (for example `.a
 | Codex, Cursor, Gemini CLI and others | Untested | Built to the Agent Skills format |
 
 The guard hook only runs in Claude Code. On other platforms, the visible self-check in the skill does that job. Tried it on an untested platform? [Tell us how it went](https://github.com/Jockkie/find-my-ikigai/issues/new/choose), whether it worked or not.
+
+## Optional tools
+
+Everything works without any tool. At the end, once, the skill may offer one extra:
+
+- **[Flora](https://refer.flora.ai/jock-oosterveer-htu6)**: an image of your ikigai map to keep or print, made from symbols and moods only. You read the full prompt first; your story, name and the people in it are never sent. MCP: `https://mcp.flora.ai/mcp`, which does nothing until you authenticate it with `/mcp`. Always behind a quote and a spending cap you set.
+
+**Disclosure:** the Flora link is an affiliate link. Jockkie earns a commission when you create an account through it. The skill says so before it shares the link.
 
 ## How this skill keeps you from trusting a guess
 
